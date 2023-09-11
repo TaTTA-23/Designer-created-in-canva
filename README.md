@@ -1,7 +1,5 @@
 # Designer-created-in-canva
  Designers created in canva, for food businesses and online stores.
-# Designer-created-in-canva
- Designers created in canva, for food businesses and online stores.
  <br></br>
  Site de criação própria, e-commerce Dropshiping, venda de produtos diretos do exterior para o Brasil. Este era o Logo para o projeto, o site foi montado na plataforma WordPress e desenvolvido sem código, o foco na época era desenvolver habilidade de UX e UI. Foi de grande valia os aprendizados. Compartilho aqui o resultado. 
  <br></br>
